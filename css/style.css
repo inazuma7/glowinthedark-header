@@ -1,17 +1,16 @@
 /*==================== GOOGLE FONTS ====================*/
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Pacifico&display=swap');
+
 /*==================== VARIABLES CSS ====================*/
-
-
 :root {
      
-    /*==========  HSL color mode ========== */
+    /*==========  color mode ========== */
     --first-color: #FF6600;
     --second-color: #f2EA02;
     --bg-color: #040720;
     --logo-color:#FD1C03;
 
-    /*========== Fon==========*/
+    /*========== Font ==========*/
     --body-font: 'Carter One', cursive;
     --logo-font: 'Pacifico', cursive;
 
